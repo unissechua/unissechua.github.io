@@ -118,5 +118,5 @@ permalink: /about/
 	<a href="https://scholar.google.com/citations?user=8Y7eGBsAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar-square"></i></a>
 </div>
 <div class="col three caption">
-	Best way to reach me is through my email.</a>
+	Best way to reach me is through my email.
 </div>
