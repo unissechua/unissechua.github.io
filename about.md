@@ -116,6 +116,7 @@ permalink: /about/
 	<a href="https://www.linkedin.com/in/unisse.chua" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/sushixuni" target="_blank"><i class="fa fa-twitter-square"></i></a>
 	<a href="https://scholar.google.com/citations?user=8Y7eGBsAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar-square"></i></a>
+	<a href="https://orcid.org/0000-0001-7467-214X" target="_blank"><i class="ai ai-orcid"></i></a>
 </div>
 <div class="col three caption">
 	Best way to reach me is through my email.
