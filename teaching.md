@@ -8,7 +8,13 @@ description:
 <section>
   <h3 class="row subheading">A.Y. 2019-2020</h3>
   <div class="row">
-    <span class="one-col">Jan 2020 to Apr 2020</span>
+    <span class="one-col">Jul 2020 to Sept 2020</span>
+    <div class="two-col">
+      <p><b>Professional Software Development</b> (PROSDE)</p>
+    </div>
+  </div>
+  <div class="row">
+    <span class="one-col">Jan 2020 to May 2020</span>
     <div class="two-col">
       <p><b>Web Application Development</b> (CCAPDEV)</p>
     </div>
