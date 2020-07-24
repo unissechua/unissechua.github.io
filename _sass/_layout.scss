@@ -180,6 +180,20 @@ text-align: center;
   margin: 0;
 }
 
+.block {
+  margin-bottom: 8px;
+}
+
+.small-col {
+  width: 15%;
+  text-align: right;
+}
+
+.large-col {
+  width: 85%;
+  margin-left: 8px;
+}
+
 /**
  * Posts  **********************************************************
  */
@@ -249,7 +263,7 @@ display: table;
 clear: both;
 }
 .project {
-width: 33.33%;
+width: 50%;
 height: 250px;
 float: left;
 vertical-align: middle;
@@ -262,11 +276,11 @@ height: 230px;
 overflow: hidden;
 }
 .thumbnail img{
-width: 500px;
+width: 100%;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+// left: -25%;
+// top: -5%;
 }
 .thumbnail a{
 float: left;
