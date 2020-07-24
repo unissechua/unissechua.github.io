@@ -10,7 +10,7 @@ description:
   <div class="row">
     <span class="one-col">Jul 2020 to Sept 2020</span>
     <div class="two-col">
-      <p><b>Professional Software Development</b> (PROSDE)</p>
+      <p><b>Professional Software Development</b> (PROSDEV)</p>
     </div>
   </div>
   <div class="row">
