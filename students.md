@@ -6,7 +6,7 @@ description:
 ---
 
 <section>
-  <p>Over the years, I have had the privelege of mentoring and working with talented and engaging students in various theses and projects.</p>
+  <p>Over the years, I have had the privilege of mentoring and working with talented and engaging students in various theses and projects.</p>
   <h4 class="row subheading">Graduate Students</h4>
   <div class="row">
     <span class="small-col">Current</span>
