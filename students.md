@@ -9,7 +9,7 @@ description:
   <p>Over the years, I have had the privilege of mentoring and working with talented and engaging students in various theses and projects.</p>
   <h4 class="row subheading">Graduate Students</h4>
   <div class="row">
-    <span class="small-col">Current</span>
+    <span class="small-col">Former</span>
     <div class="large-col">
       <p><b>Alexczar Dela Torre</b> <em>(co-advising with Briane Samson)</em> — Comprehensive Agent-Based Models of Train System and Passenger Dynamics</p>
       <p><b>Troy Michael Mirafuentes</b> <em>(co-advising with Briane Samson)</em> — Agent-based Models of Off-the-Ball Plays in Football</p>
@@ -20,9 +20,12 @@ description:
   <div class="row">
     <span class="small-col">Current</span>
     <div class="large-col">
+    </div>
+    <span class="small-col">Former</span>
+    <div class="large-col">
       <div class="block">
-        <p><em>Open Data Portals for Universal Citizen Participation</em></p>
-        <p><b>Zach Marasigan</b> (CS), <b>Ian Ona</b> (CS), <b>Rolo Peña</b> (CS) & <b>Kyle Santiago</b> (CS)</p>
+        <p><em>Assessing Rooftop Solar Energy Potential</em></p>
+        <p><b>Jason Evangelista</b> (CS), <b>Neil Matthew Lua</b> (CS), <b>Robine Jerome Reyes</b> (CS) & <b>Kurt Bradley Tanting</b> (CS)</p>
       </div>
       <div class="block">
         <p><em>Ad Hoc Ask-the-Doctor Service for Pandemic Response</em></p>
@@ -35,6 +38,10 @@ description:
       <div class="block">
         <p><em>Crowdsourcing Sidewalk Data</em></p>
         <p><b>Lynux Ansay</b> (CS), <b>Nicolas Sy</b> (CS), <b>Henric Tay</b> (CS) & <b>Noki Topacio</b> (CS)</p>
+      </div>
+      <div class="block">
+        <p><em>Open Data Portals for Universal Citizen Participation</em></p>
+        <p><b>Zach Marasigan</b> (CS), <b>Ian Ona</b> (CS), <b>Rolo Peña</b> (CS) & <b>Kyle Santiago</b> (CS)</p>
       </div>
     </div>
   </div>
