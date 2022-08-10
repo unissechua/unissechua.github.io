@@ -21,6 +21,8 @@ description:
     <span class="small-col">Current</span>
     <div class="large-col">
     </div>
+  </div>
+  <div class="row">
     <span class="small-col">Former</span>
     <div class="large-col">
       <div class="block">
